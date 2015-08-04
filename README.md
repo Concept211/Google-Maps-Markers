@@ -4,7 +4,7 @@ Updated "Visual Refresh" version of the Google Maps Marker Icons. Google's new m
 
 ---
 
-# Table of Contents
+## Table of Contents
 * [Installation](#installation)
 * [Usage (Custom)](#usage-custom)
 * [Usage (Premade)](#usage-premade)
