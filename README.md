@@ -1,6 +1,6 @@
 ![Google Maps](https://maps.gstatic.com/tactile/settings/logo_maps-2x.png)
 # Google Maps Markers
-Updated "Visual Refresh" version of the Google Maps Marker Icons. Google's new marker icons look great, but they never bothered to provide us with matching PNG versions of them when we need custom colors and labels. I went ahead and created my own set using ImageMagick and my ImageMagick.vbs VBScript file.
+Updated "Visual Refresh" version of the Google Maps Marker Icons. Google's new marker icons look great, but they never bothered to provide us with matching PNG versions of them when we need custom colors and labels. I went ahead and created my own set using ImageMagick and my [ImageMagick.vbs](https://github.com/Concept211/Google-Maps-Markers/blob/master/source/ImageMagick.vbs) VBScript file. You can also link to the [pre-generated](#usage-premade) images I created instead of creating your own.
 
 ---
 
