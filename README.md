@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/m
 | Placeholder | Possible Values |
 | --- | --- |
 | color | red, black, blue, green, grey, orange, purple, white, yellow |
-| character | !, @, #, $, %, &, +, -, =, A-Z, 1-100, (blank = &bull;) |
+| character | A-Z, 1-100, !, @, $, +, -, =, (%23 = #), (%25 = %), (%26 = &), (blank = &bull;) |
 
 ## <a name="examples"></a>Examples
 | Old | New |
