@@ -38,6 +38,6 @@ https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/m
 | N/A | ![New Purple 1](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_purple1.png) |
 | N/A | ![New Orange @](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_orange@.png) |
 | N/A | ![New White 99](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_white99.png) |
-| N/A | ![New Blue #](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_blue#.png) |
+| N/A | ![New Blue #](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_blue%23.png) |
 | N/A | ![New Yellow +](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_yellow+.png) |
 | N/A | ![New Black Z](https://raw.githubusercontent.com/Concept211/Google-Maps-Markers/master/images/marker_blackZ.png) |
